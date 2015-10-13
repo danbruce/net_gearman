@@ -1,9 +1,13 @@
 {
-    "name": "publero/net_gearman",
+    "name": "danbruce/net_gearman",
     "type": "library",
     "description": "Gearman (http://www.danga.com/gearman) is a system to farm out work to other machines. It can load balance function calls to lots of machines and allows you to call functions between languages. It can also run all function calls in parallel.",
     "license": "New BSD",
     "authors": [
+        {
+            "name": "Daniel Bruce",
+            "email": "dbruce1126@gmail.com"
+        },
         {
             "name": "Till Klampaeckel",
             "homepage": "http://pear.php.net/user/till"
